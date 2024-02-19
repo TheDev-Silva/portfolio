@@ -14,6 +14,12 @@ const config: Config = {
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
     },
+    fontFamily: {
+      Arizona: ['Arizona'],
+      Bebas_Neue: ['Bebas Neue'],
+      Blooming_Elegant_Monoline: ['Blooming Elegant Monoline'],
+      Caviar_Dreams: ['Caviar Dreams'],
+    },
   },
   plugins: [],
 };
