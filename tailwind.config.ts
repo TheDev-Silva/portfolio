@@ -22,6 +22,10 @@ const config: Config = {
       Bebas_Neue: ['Bebas Neue'],
       Blooming_Elegant_Monoline: ['Blooming Elegant Monoline'],
       Caviar_Dreams: ['Caviar Dreams'],
+      Roboto: ['Roboto'],
+      Roseberry: ['Roseberry'],
+      Trebuchet_MS: ['Trebuchet MS'],
+      Geometr415_Blk_BT: ['Geometr415 Blk BT'],
     },
     extend: {
       colors: {
